@@ -1,3 +1,7 @@
+
+
+
+
 # Read-Me CLI generator!
 
 ## Description
@@ -15,6 +19,8 @@ Once you have this project cloned, npm install, followed by an npm install inqui
 
 ## Usage
 run node index.js in the folder where these files are kept.
+![HowtoUse](https://user-images.githubusercontent.com/15963035/233539104-74963ce0-05ef-4689-9775-4e444c580470.mp4)
+
 ## Credits
 You, me! Everybody!
 
