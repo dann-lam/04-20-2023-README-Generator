@@ -1,4 +1,4 @@
-# Cool Read-Me CLI generator!
+# Read-Me CLI generator!
 
 ## Description
 This project utilized some of the fundamental of utilizing inquirer to allow us to receive and process prompts. It also utilizes some of the fundamentals of FS which allows users to read or write files, as well practices importing functions from external javascript files for use.
