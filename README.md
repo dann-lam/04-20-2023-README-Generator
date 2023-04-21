@@ -3,7 +3,7 @@
 
 
 # Read-Me CLI generator!
-![Link to Site!](https://dann-lam.github.io/04-20-2023-README-Generator/)
+[Link to Site!](https://dann-lam.github.io/04-20-2023-README-Generator/)
 ## Description
 This project utilized some of the fundamental of utilizing inquirer to allow us to receive and process prompts. It also utilizes some of the fundamentals of FS which allows users to read or write files, as well practices importing functions from external javascript files for use.
 
